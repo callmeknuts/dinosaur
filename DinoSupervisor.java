@@ -6,7 +6,7 @@ public class DinoSupervisor {
 
         Dinosaur t_rex = new Dinosaur();
         Dinosaur velciraptor = new Dinosaur();
-
+        // Added a vegan dino then called roar later in program
         Dinosaur diplodocus = new Dinosaur();
 
         t_rex.color = "red";
