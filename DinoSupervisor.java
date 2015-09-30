@@ -29,5 +29,6 @@ public class DinoSupervisor {
         t_rex.roar();
         velciraptor.roar();
         diplodocus.roar();
+        System.out.println("This shouldn't be here.");
     }
 }
