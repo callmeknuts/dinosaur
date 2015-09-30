@@ -13,4 +13,7 @@ public class Dinosaur {
     public void roar (){
         System.out.println("GRRRR!!!!");
     }
+    public void roar2(){
+        System.out.println("Can I get a what what?");
+    }
 }

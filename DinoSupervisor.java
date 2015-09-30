@@ -28,6 +28,7 @@ public class DinoSupervisor {
         System.out.println("My name is " + t_rex.name + ", I'm a " + t_rex.species + ", my favorite color is " + t_rex.color + " and I eat " + t_rex.diet );
         t_rex.roar();
         velciraptor.roar();
-        diplodocus.roar();
+        diplodocus.roar2();
+
     }
 }
