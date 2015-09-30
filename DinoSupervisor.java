@@ -19,6 +19,12 @@ public class DinoSupervisor {
         velciraptor.name = "Jerry";
         velciraptor.species = "Velociraptor";
 
+        //defining traits of new object
+        diplodocus.color = "brown";
+        diplodocus.diet = "them greens kid";
+        diplodocus.name = "Eugene";
+        diplodocus.species = "Diplodocus";
+
         System.out.println("My name is " + t_rex.name + ", I'm a " + t_rex.species + ", my favorite color is " + t_rex.color + " and I eat " + t_rex.diet );
         t_rex.roar();
         velciraptor.roar();
